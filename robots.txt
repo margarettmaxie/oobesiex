@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://guzizeigi.cnfuther.com/sitemap.xml
